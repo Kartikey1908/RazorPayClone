@@ -1216,9 +1216,7 @@ video {
 .bg-\[url\(\/images\/instant-settlement-bg\.svg\)\] {
   background-image: url(./images/instant-settlement-bg.svg);
 }
-.hover\:bg-\[url\(\/images\/instant-settlement-bghover\.svg\)\]:hover {
-  background-image: url(./images/instant-settlement-bghover.svg);
-}
+
 
 .bg-cover {
   background-size: cover;
@@ -1530,7 +1528,7 @@ video {
 }
 
 .hover\:bg-\[url\(\/images\/instant-settlement-bghover\.svg\)\]:hover {
-  background-image: url(/images/instant-settlement-bghover.svg);
+  background-image: url(./images/instant-settlement-bghover.svg);
 }
 
 .hover\:text-lightBlue:hover {
