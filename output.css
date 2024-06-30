@@ -1216,7 +1216,7 @@ video {
 .bg-\[url\(\/images\/instant-settlement-bg\.svg\)\] {
   background-image: url(./images/instant-settlement-bg.svg);
 }
-.bg-\[url\(\/images\/instant-settlement-bghover\.svg\)\]:hover {
+.hover\:bg-\[url\(\/images\/instant-settlement-bghover\.svg\)\]:hover {
   background-image: url(./images/instant-settlement-bghover.svg);
 }
 
